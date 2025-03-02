@@ -48,7 +48,7 @@ function VerbGenerator() {
         {/* <span><strong>Gujarati Meaning:</strong> {verb.gujarati}</span> */}
         <p>
           <strong>Type of word:</strong>{' '}
-          <span>{verb.typeofWord}</span>
+          <span>{verb.partOfSpeech}</span>
         </p>
         <p>
           <strong>Meaning:</strong>{' '}

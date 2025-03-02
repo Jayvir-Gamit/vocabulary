@@ -3,7 +3,7 @@ export const verbs = [
   {
     word: "Sprint",
     gujarati: "દોડવું",
-    typeofWord: "Verb/Noun",
+    partOfSpeech: "Verb/Noun",
     meaning: "Move quickly",
     wordExample: {
       english: "The cat sprinted after the mouse, its claws extended and its eyes fixed on the fleeing prey.",
@@ -23,7 +23,7 @@ export const verbs = [
   {
     word: "Leap",
     gujarati: "છલાંગ મારવી",
-    typeofWord: "Noun/Verb",
+    partOfSpeech: "Noun/Verb",
     meaning: "The act of moving suddenly upwards into the air by pushing off the ground with your feet.",
     wordExample: {
       english: "The scientist leaped to the conclusion that the new data supported their hypothesis, though further research was still needed.",
@@ -43,7 +43,7 @@ export const verbs = [
   {
     word: "Surreptitiously",
     gujarati: "ગુપ્ત રીતે",
-    typeofWord: "Adjective  + ly = Adverb",
+    partOfSpeech: "Adjective  + ly = Adverb",
     meaning: "In a secretive manner, especially to avoid notice or attention.",
     wordExample: {
       english: "The spyware was surreptitiously installed on the phones of unsuspecting users.",
@@ -69,7 +69,7 @@ export const verbs = [
   {
     word: "Obfuscation",
     gujarati: "અસ્પષ્ટતા / ભ્રમ ઉત્પન્ન કરવો / મૂંઝવણ",
-    typeofWord: "Obfuscate  + ion = Noun",
+    partOfSpeech: "Obfuscate  + ion = Noun",
     meaning: "The action of making something unclear of difficult to understand.",
     wordExample: {
       english: "The government's obfuscation on surveillance issues has raised concerns about accountability.",
@@ -99,7 +99,7 @@ export const verbs = [
   {
     word: "Tempering",
     gujarati: "હસ્તક્ષેપ",
-    typeofWord: "Verb",
+    partOfSpeech: "Verb",
     meaning: "The act of interfering with something to cause damage or alter its intended function.",
     wordExample: {
       english: "Allegations/Accusation of tampering with election machines have led to widespreat mistrust.",
@@ -121,7 +121,7 @@ export const verbs = [
   {
     word: "Jeopardize",
     gujarati: "જોખમમાં મૂકવું",
-    typeofWord: "Verb",
+    partOfSpeech: "Verb",
     meaning: "To put something at risk of harm, loss, or failure.",
     wordExample: {
       english: "The government's silence on cybersecurity issues may jeopardize public trust.",
@@ -145,7 +145,7 @@ export const verbs = [
   {
     word: "Dissidents",
     gujarati: "અસંતુષ્ટ વ્યક્તિ",
-    typeofWord: "Noun",
+    partOfSpeech: "Noun",
     meaning: "Individuals who disagree with or oppose an established policy or authority.",
     wordExample: {
       english: "Dissidents were allegedly targeted using surveillance software.",
@@ -166,7 +166,7 @@ export const verbs = [
   {
     word: "Impetus",
     gujarati: "પ્રેરણા / પ્રોત્સાહન / ઉત્તેજના",
-    typeofWord: "Noun",
+    partOfSpeech: "Noun",
     meaning: "A driving force or stimulus that encourages action or progress.",
     wordExample: {
       english: "The ruling provided new impetus to investigate allegation of spyware misuse.",
@@ -190,7 +190,7 @@ export const verbs = [
   {
     word: "Draconian",
     gujarati: "કઠોર",
-    typeofWord: "draconic + ian = Adjective",
+    partOfSpeech: "draconic + ian = Adjective",
     meaning: "Excessively harsh or severe.",
     wordExample: {
       english: "Critics labeled the new surveillance laws as draconian measures.",
@@ -212,7 +212,7 @@ export const verbs = [
   {
     word: "Plausible",
     gujarati: "સંભવ / બુદ્ધિગમ્ય",
-    typeofWord: "ible = Adjective",
+    partOfSpeech: "ible = Adjective",
     meaning: "Seeming reasonable or probable.",
     wordExample: {
       english: "The explanation provided by the officials seemed plausible at first glance.",
@@ -236,7 +236,7 @@ export const verbs = [
   {
     word: "Repercussions",
     gujarati: "પરિણામ / પ્રત્યાઘાતો",
-    typeofWord: "ion = Noun",
+    partOfSpeech: "ion = Noun",
     meaning: "Unintended consequences or effects, often negative, of an action or event.",
     wordExample: {
       english: "The decision to restrict public access to poll documents may have severe repercussions.",
@@ -257,7 +257,7 @@ export const verbs = [
   {
     word: "Exacerbate",
     gujarati: "વધારવું / ખરાબ કરવું",
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To make a problem or situation worse.",
     wordExample: {
       english: "The lack of transparency only serves to exacerbate public mistrust.",
@@ -279,7 +279,7 @@ export const verbs = [
   {
     word: "Stratified",
     gujarati: "સ્તરીકૃત / વિભાજિત",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Divided into levels or layers, often socially or hierarchically.",
     wordExample: {
       english: "Relief efforts in India often reflect its stratified societal structure.",
@@ -299,7 +299,7 @@ export const verbs = [
   {
     word: "Perfunctory",
     gujarati: "અવ્યવસ્થિત / બેદરકારીભર્યું / જેમ તેમ કરી નાંખેલું",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Carried out with minimal effort or reflection; superficial.",
     wordExample: {
       english: "The perfunctory relief efforts in some regions left many affected people dissatisfied.",
@@ -321,7 +321,7 @@ export const verbs = [
   {
     word: "Inundation",
     gujarati: "પૂર / જળપ્રલય",
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "An overwhelming abundance of things or flooding of water.",
     wordExample: {
       english: "The tsunami caused an inundation that submerged entire villages.",
@@ -342,7 +342,7 @@ export const verbs = [
   {
     word: "Ostensible",
     gujarati: "દેખાવડું / દેખાવ પૂરતું",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Appearing to be true but not necessarily so.",
     wordExample: {
       english: "The ostensible purpose of privatising beaches was tourism development, but it displaced communities.",
@@ -364,7 +364,7 @@ export const verbs = [
   {
     word: "Deleterious",
     gujarati: "હાનિકારક",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Causing harm or damage.",
     wordExample: {
       english: "Shrimp farming has had deleterious effects on coastal ecosystems.",
@@ -386,7 +386,7 @@ export const verbs = [
   {
     word: "Efficacy",
     gujarati: "કાર્યક્ષમતા / અસરકારકતા",
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The ability to produce the desired result.",
     wordExample: {
       english: "The efficacy of disaster response teams was evident in their quick action.",
@@ -410,7 +410,7 @@ export const verbs = [
   {
     word: "Palliative",
     gujarati: "ઉપશામક / દર્દશામક / આરામ આપવા વાળું",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Relieving pain or alleviating a problem without addressing the root cause.",
     wordExample: {
       english: "Constructing temporary shelters provided a palliative solution to the housing crisis post-tsunami.",
@@ -430,7 +430,7 @@ export const verbs = [
   {
     word: "Impunity",
     gujarati: "દંડમુક્તિ / દંડથી છૂટ",
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "Exemption from punishment or harm.",
     wordExample: {
       english: "The corrupt officials believed they could operate with impunity, facing no consequences for their illegal actions.",
@@ -452,7 +452,7 @@ export const verbs = [
   {
     word: "Recalcitrant",
     gujarati: "હઠીલા / જિદ્દી",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Stubbornly resistant to authority or control.",
     wordExample: {
       english: "Recalcitrant attitudes towards environmental laws have hampered conservation efforts.",
@@ -474,7 +474,7 @@ export const verbs = [
   {
     word: "Precarious",
     gujarati: "અસ્થિર / અનિશ્ચિત",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Not securely held; dangerously likely to fall or collapse.",
     wordExample: {
       english: "The precarious condition of mangroves highlights the urgency for conservation.",
@@ -496,7 +496,7 @@ export const verbs = [
   {
     word: "Exert",
     gujarati: "શ્રમ / અમલમાં મૂકવું / પ્રભાવ પાડવો",
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To apply or put forth effort, influence, or pressure.",
     wordExample: {
       english: "China exerts significant control over the global rare earth supply chain.",
@@ -518,7 +518,7 @@ export const verbs = [
   {
     word: "Reinforce",
     gujarati: "મજબૂત કરવું",
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To strengthen or support.",
     wordExample: {
       english: "China’s ban on rare earth technologies reinforces its dominance in the sector.",
@@ -540,7 +540,7 @@ export const verbs = [
   {
     word: "Robust",
     gujarati: "મજબૂત",
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Strong and effective in all or most situations.",
     wordExample: {
       english: "Kazakhstan is building a robust rare earth extraction industry with international partnerships.",
@@ -562,7 +562,7 @@ export const verbs = [
   {
     word: "Proximity",
     gujarati: "નિકટતા",
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "Nearness in space, time, or relationship.",
     wordExample: {
       english: "Kazakhstan’s proximity to India makes it a favorable partner for rare earth imports.",
@@ -584,7 +584,7 @@ export const verbs = [
   {
     word: "Dissent",
     gujarati: "અસંમતિ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "Holding or expressing an opinion different from the majority.",
     wordExample: {
       english: "The judge’s dissent highlighted an alternate perspective on the case.",
@@ -604,7 +604,7 @@ export const verbs = [
   {
     word: "Edifice",
     gujarati: "સંરચના / ઇમારત / માળખું", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A large and imposing structure; often metaphorically referring to a complex system.",
     wordExample: {
       english: "The edifice of modern education relies on both traditional and digital teaching methods.",
@@ -623,7 +623,7 @@ export const verbs = [
   {
     word: "Invincible",
     gujarati: "અજેય", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Too powerful to be defeated or overcome.",
     wordExample: {
       english: "The team appeared invincible throughout the tournament, winning all their matches.",
@@ -643,7 +643,7 @@ export const verbs = [
   {
     word: "Exhibit",
     gujarati: "પ્રદર્શન કરવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To show or display something.",
     wordExample: {
       english: "The museum exhibits various artifacts from ancient civilizations.",
@@ -663,7 +663,7 @@ export const verbs = [
   {
     word: "Capitulation",
     gujarati: "આત્મસમર્પણ / શરણાગતિ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The action of surrendering or ceasing to resist an opponent.",
     wordExample: {
       english: "The team’s early capitulation in the game left the fans disappointed.",
@@ -683,7 +683,7 @@ export const verbs = [
   {
     word: "Leash",
     gujarati: "કાબૂમાં રાખવું / નિયંત્રણ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A restraint or control over something.",
     wordExample: {
       english: "The company kept a tight leash on expenses to stay within budget.",
@@ -703,7 +703,7 @@ export const verbs = [
   {
     word: "Benign",
     gujarati: "દયાળુ", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Gentle and kind; not harmful in effect.",
     wordExample: {
       english: "The teacher's benign attitude made the students feel comfortable in class.",
@@ -723,7 +723,7 @@ export const verbs = [
   {
     word: "Permeate",
     gujarati: "વ્યાપી જવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To spread throughout something.",
     wordExample: {
       english: "The smell of freshly baked bread permeated the entire house.",
@@ -743,7 +743,7 @@ export const verbs = [
   {
     word: "Exorbitant",
     gujarati: "અતિશય / મોંઘું", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Unreasonably high in price or cost.",
     wordExample: {
       english: "The restaurant was criticized for its exorbitant prices.",
@@ -763,7 +763,7 @@ export const verbs = [
   {
     word: "Discrete",
     gujarati: "અલગ", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Individually separate and distinct.",
     wordExample: {
       english: "The report divided the data into discrete categories for easier analysis.",
@@ -783,7 +783,7 @@ export const verbs = [
   {
     word: "Obsolete",
     gujarati: "અપ્રચલિત / પુરાતન / લુપ્ત", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "No longer in use; out of date.",
     wordExample: {
       english: "Many technological devices from the 1990s are now considered obsolete.",
@@ -803,7 +803,7 @@ export const verbs = [
   {
     word: "Intrusion",
     gujarati: "અતિક્રમણ / ઘુસણખોરી / અનાધિકાર પ્રવેશ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The act of entering a place or situation where one is unwelcome or uninvited.",
     wordExample: {
       english: "The journalist apologized for the intrusion into the celebrity's personal life.",
@@ -823,7 +823,7 @@ export const verbs = [
   {
     word: "Impediment",
     gujarati: "અવરોધ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A hindrance or obstruction in doing something.",
     wordExample: {
       english: "Poor internet connectivity was a major impediment to remote learning.",
@@ -844,7 +844,7 @@ export const verbs = [
   {
     word: "Coerce",
     gujarati: "દબાણ કરવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To persuade someone to do something by using force or threats.",
     wordExample: {
       english: "The kidnappers tried to coerce the victim into signing over his property.",
@@ -864,7 +864,7 @@ export const verbs = [
   {
     word: "Plummet",
     gujarati: "ઘટવું / ધડાધડ પડવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To fall or drop straight down at high speed.",
     wordExample: {
       english: "The company's stock price plummeted after the scandal was exposed.",
@@ -884,7 +884,7 @@ export const verbs = [
   {
     word: "Typecast",
     gujarati: "સાચો પાત્ર આપવો", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To assign someone a role or attribute that restricts them to a narrow scope.",
     wordExample: {
       english: "The actor was typecast as a villain after playing similar roles in several movies.",
@@ -904,7 +904,7 @@ export const verbs = [
   {
     word: "Forbearance",
     gujarati: "ધીરજ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "Patient self-control; restraint and tolerance.",
     wordExample: {
       english: "The landlord showed forbearance by giving the tenant extra time to pay the rent.",
@@ -924,7 +924,7 @@ export const verbs = [
   {
     word: "Renege",
     gujarati: "વાપસી લેવી", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To go back on a promise, undertaking, or contract.",
     wordExample: {
       english: "The company reneged on its agreement to provide free healthcare for employees.",
@@ -944,7 +944,7 @@ export const verbs = [
   {
     word: "Wake-up call",
     gujarati: "જાગૃતિ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "An event or situation that alerts one to a problem that needs immediate attention.",
     wordExample: {
       english: "The near-miss car accident was a wake-up call for her to drive more cautiously.",
@@ -964,7 +964,7 @@ export const verbs = [
   {
     word: "Apportion",
     gujarati: "વહેંચવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To divide and allocate responsibility or blame.",
     wordExample: {
       english: "The profits were apportioned among the partners according to their investments.",
@@ -984,7 +984,7 @@ export const verbs = [
   {
     word: "Threshold",
     gujarati: "સીમા", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The starting point of an experience, event, or capacity.",
     wordExample: {
       english: "She has a low threshold for pain, so she avoids extreme physical activities.",
@@ -1004,7 +1004,7 @@ export const verbs = [
   {
     word: "Complacency",
     gujarati: "આત્મસંતોષ / અહંકાર", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A feeling of smug satisfaction with oneself or one's achievements, often unaware of danger.",
     wordExample: {
       english: "The team’s complacency after winning the first game led to their defeat in the next.",
@@ -1024,7 +1024,7 @@ export const verbs = [
   {
     word: "Pitfall",
     gujarati: "મુશ્કેલી / ખાબોચિયું", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A hidden or unsuspected danger or difficulty.",
     wordExample: {
       english: "One of the pitfalls of online shopping is the risk of falling for scams.",
@@ -1044,7 +1044,7 @@ export const verbs = [
   {
     word: "Utterance",
     gujarati: "ઉચ્ચારણ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A spoken word, statement, or vocal sound.",
     wordExample: {
       english: "His utterance of the phrase 'I’m sorry' was barely audible.",
@@ -1063,7 +1063,7 @@ export const verbs = [
   {
     word: "Ruinous",
     gujarati: "વિનાશક", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Involving or causing sudden great damage or suffering.",
     wordExample: {
       english: "The company’s ruinous decision to expand too quickly led to bankruptcy.",
@@ -1082,7 +1082,7 @@ export const verbs = [
   {
     word: "Tumultuous",
     gujarati: "ઉથલપાથલવાળું / તોફાની", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Characterized by disorder, confusion, or turbulence.",
     wordExample: {
       english: "The stock market experienced a tumultuous week with significant fluctuations.",
@@ -1102,7 +1102,7 @@ export const verbs = [
   {
     word: "Stem",
     gujarati: "રોકવું", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "To stop or restrict the flow or growth of something.",
     wordExample: {
       english: "The government introduced measures to stem the rising inflation.",
@@ -1122,7 +1122,7 @@ export const verbs = [
   {
     word: "Precariously",
     gujarati: "અસ્થિર રીતે", 
-    typeofWord: "adverb", 
+    partOfSpeech: "adverb", 
     meaning: "In a way that is not securely held or in a position likely to collapse.",
     wordExample: {
       english: "The climber stood precariously on the edge of the cliff.",
@@ -1142,7 +1142,7 @@ export const verbs = [
   {
     word: "Sputtering",
     gujarati: "ઠોકરા મારતાં / ઝટકો મારતાં", 
-    typeofWord: "adverb", 
+    partOfSpeech: "adverb", 
     meaning: "Making a series of soft explosive sounds; working in a way that shows inconsistency.",
     wordExample: {
       english: "The old car started sputtering as it climbed the steep hill.",
@@ -1162,7 +1162,7 @@ export const verbs = [
   {
     word: "Inevitability",
     gujarati: "અનિવાર્યતા", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The quality of being certain to happen.",
     wordExample: {
       english: "The inevitability of change is a constant in life.",
@@ -1182,7 +1182,7 @@ export const verbs = [
   {
     word: "Quibble",
     gujarati: "વાંધો ઉઠાવવો / બકવાસ કરવી / ઝગડવું / કટાક્ષ", 
-    typeofWord: "verb",
+    partOfSpeech: "verb",
     meaning: "A slight objection or criticism about a trivial matter.",
     wordExample: {
       english: "They quibbled over the color of the curtains instead of focusing on the renovation plan.",
@@ -1202,7 +1202,7 @@ export const verbs = [
   {
     word: "Foray",
     gujarati: "અચાનક હુમલો / પ્રયાસ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A sudden attack or incursion; an initial venture into a new field.",
     wordExample: {
       english: "His foray into entrepreneurship proved to be highly successful.",
@@ -1221,7 +1221,7 @@ export const verbs = [
   {
     word: "Purveyor",
     gujarati: "પુરવઠાકાર / પ્રદાતા / આપનાર", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "A person or group that supplies goods or services.",
     wordExample: {
       english: "The purveyor of quality chess equipment was a key supporter of the tournament.",
@@ -1240,7 +1240,7 @@ export const verbs = [
   {
     word: "Confluence",
     gujarati: "સંગમ", 
-    typeofWord: "noun",
+    partOfSpeech: "noun",
     meaning: "The junction of two or more things, especially rivers or ideas.",
     wordExample: {
       english: "A confluence of factors led to the company’s unprecedented success.",
@@ -1259,7 +1259,7 @@ export const verbs = [
   {
     word: "Unequivocal",
     gujarati: "સ્પષ્ટ", 
-    typeofWord: "adjective",
+    partOfSpeech: "adjective",
     meaning: "Leaving no doubt; unambiguous.",
     wordExample: {
       english: "The minister’s speech was an unequivocal declaration of support for the new policy.",
@@ -1274,6 +1274,306 @@ export const verbs = [
       { word: "Ambiguous", gujarati: "અસ્પષ્ટ" },
       { word: "Uncertain", gujarati: "અનિશ્ચિત" },
       { word: "Unclear", gujarati: "અસ્પષ્ટ" },
+    ],
+  },
+  {
+    word: "Meagre",
+    gujarati: "અલ્પ", 
+    partOfSpeech: "adjective",
+    meaning: "Lacking in quantity or quality; insufficient.",
+    wordExample: {
+      english: "The workers were dissatisfied with the meagre wages they received for their hard work.",
+      gujarati: "કર્મચારીઓને તેમની મહેનત માટે મળતા અલ્પ વેતનથી અસંતોષ હતો.", 
+    },
+    synonyms: [
+      { word: "Scanty", gujarati: "અલ્પ" },
+      { word: "Insufficient", gujarati: "અપૂરતું" },
+      { word: "Paltry", gujarati: "તુચ્છ" },
+      { word: "Skimpy", gujarati: "Insufficient in amount or size." },
+      { word: "Measly", gujarati: "Very small or inadequate." },
+      { word: "Sparse", gujarati: "Thinly dispersed or scattered." },
+    ],
+    antonyms: [
+      { word: "Abundant", gujarati: "પુષ્કળ" },
+      { word: "Ample", gujarati: "પુષ્કળ" },
+      { word: "Plentiful", gujarati: "પુષ્કળ" },
+      { word: "Plethora", gujarati: "An excessive amount." },
+      { word: "Multitude", gujarati: "A large number of people or things." },
+      { word: "Slew", gujarati: "A great number or large amount." },
+      { word: "Myriad", gujarati: "A countless or extremely great number." },
+    ],
+  },
+  {
+    word: "Bottlenecks",
+    gujarati: "અડચણો", 
+    partOfSpeech: "noun",
+    meaning: "Points of congestion or blockage that slow down progress.",
+    wordExample: {
+      english: "The government is working on removing bottlenecks in the supply chain to ensure timely delivery of goods.",
+      gujarati: "સરકાર સમયસર માલસામાનની ડિલિવરી સુનિશ્ચિત કરવા માટે પુરવઠા શૃંખલામાં અડચણો દૂર કરવા માટે કામ કરી રહી છે.", 
+    },
+    synonyms: [
+      { word: "Hindrances", gujarati: "અવરોધો" },
+      { word: "Obstacles", gujarati: "અવરોધો" },
+      { word: "Impediments", gujarati: "અવરોધો" },
+      { word: "Proscribe", gujarati: "નિષેધ કરવો" }, 
+      { word: "Hinder", gujarati: "અવરોધ ઉભો કરવો" }, 
+      { word: "Hamper", gujarati: "અવરોધ ઉભો કરવો" }, 
+      { word: "Impede", gujarati: "અવરોધ ઉભો કરવો" }, 
+      { word: "Inhibit", gujarati: "રોકવું" }, 
+      { word: "Curtail", gujarati: "ઘટાડવો" }, 
+      { word: "Contain", gujarati: "રોકવું" }, 
+      { word: "Check", gujarati: "રોકવું" }, 
+      { word: "Clog", gujarati: "અવરોધવું" }, 
+      { word: "Halt", gujarati: "રોકવું" }, 
+      { word: "Cease", gujarati: "બંધ કરવું" }, 
+      { word: "Rein in", gujarati: "લગામ રાખવું" }, 
+      { word: "Cede", gujarati: "છોડી દેવું" }, 
+      { word: "Derail", gujarati: "પટાળ પરથી ઉતારવું" }, 
+      { word: "Deter", gujarati: "નિરોધ કરવો" }, 
+      { word: "Encumber", gujarati: "બોજારૂપ બનવું / અડચણ કરવી" }, 
+      { word: "Stymie", gujarati: "અવરોધ ઉભો કરવો" }, 
+      { word: "Thwart", gujarati: "વિફળ બનાવવું" }, 
+      { word: "Throttle", gujarati: "દબાવવું" }, 
+      { word: "Curb", gujarati: "અંકુશ" }, 
+      { word: "Stifle", gujarati: "દબાવવું" }, 
+    ],
+    antonyms: [
+      { word: "Smooth flow", gujarati: "સરળ પ્રવાહ" },
+      { word: "Clearance", gujarati: "નિકાલ" },
+      { word: "Ease", gujarati: "સરળતા" },
+    ],
+  },
+  {
+    word: "Synergy",
+    gujarati: "સહક્રિયા", 
+    typeofWord: "noun",
+    meaning: "The combined effect of two or more elements that is greater than the sum of their individual effects.",
+    wordExample: {
+      english: "The synergy between the public and private sectors has led to significant advancements in defence manufacturing.",
+      gujarati: "સાર્વજનિક અને ખાનગી ક્ષેત્ર વચ્ચેના સહક્રિયાથી સંરક્ષણ ઉત્પાદનમાં નોંધપાત્ર પ્રગતિ થઈ છે.", 
+    },
+    synonyms: [
+      { word: "Cooperation", gujarati: "સહકાર" },
+      { word: "Collaboration", gujarati: "સહયોગ" },
+      { word: "Harmony", gujarati: "સુમેળ" },
+    ],
+    antonyms: [
+      { word: "Discord", gujarati: "અસંમતિ" },
+      { word: "Conflict", gujarati: "સંઘર્ષ" },
+      { word: "Opposition", gujarati: "વિરોધ" },
+    ],
+  },
+  {
+    word: "Unprecedented",
+    gujarati: "અભૂતપૂર્વ", 
+    typeofWord: "adjective",
+    meaning: "Never done or known before.",
+    wordExample: {
+      english: "The pandemic led to unprecedented changes in the way businesses operate.",
+      gujarati: "મહામારીએ વ્યવસાયો કાર્ય કરવાની રીતમાં અભૂતપૂર્વ ફેરફારો તરફ દોરી ગયા.", 
+    },
+    synonyms: [
+      { word: "Unparalleled", gujarati: "અદ્વિતીય" },
+      { word: "Extraordinary", gujarati: "અસાધારણ" },
+      { word: "Novel", gujarati: "નવલ / નવીન પ્રકારનું" },
+    ],
+    antonyms: [
+      { word: "Common", gujarati: "સામાન્ય" },
+      { word: "Ordinary", gujarati: "સામાન્ય" },
+      { word: "Usual", gujarati: "સામાન્ય" },
+    ],
+  },
+  {
+    word: "Prowess",
+    gujarati: "કુશળતા", 
+    typeofWord: "noun",
+    meaning: "Exceptional skill or expertise in a particular field.",
+    wordExample: {
+      english: "His prowess in artificial intelligence research earned him global recognition.",
+      gujarati: "કૃત્રિમ બુદ્ધિ સંશોધનમાં તેમની કુશળતાએ તેમને વૈશ્વિક ખ્યાતિ અપાવી હતી.", 
+    },
+    synonyms: [
+      { word: "Mastery", gujarati: "નિપુણતા" },
+      { word: "Competence", gujarati: "સક્ષમતા" },
+      { word: "Excellence", gujarati: "ઉત્કૃષ્ટતા" },
+      { word: "Virtuoso", gujarati: "સંગીતવાદ્યનો ઉસ્તાદ" }, 
+      { word: "Doyen", gujarati: "વરિષ્ઠ" }, 
+      { word: "Maestro", gujarati: "ગુરુ" }, 
+      { word: "Proficient", gujarati: "નિપુણ" }, 
+      { word: "Skilled", gujarati: "કુશળ" }, 
+      { word: "Adept", gujarati: "નિપુણ" }, 
+      { word: "Adroit", gujarati: "ચતુર" }, 
+      { word: "Astute", gujarati: "ચાતુર્યપૂર્ણ" }, 
+      { word: "Canny", gujarati: "ચાતુર્યપૂર્ણ" }, 
+      { word: "Shrewd", gujarati: "ચાતુર્યપૂર્ણ" }, 
+      { word: "Dexterous", gujarati: "ચતુર" }, 
+      { word: "Deft", gujarati: "ચતુર" }, 
+      { word: "Ingenious", gujarati: "ચાતુર્યપૂર્ણ" }, 
+    ],
+    antonyms: [
+      { word: "Incompetence", gujarati: "અયોગ્યતા" },
+      { word: "Weakness", gujarati: "કમજોરી" },
+      { word: "Inability", gujarati: "અસમર્થતા" },
+    ],
+  },
+  {
+    word: "Lofty",
+    gujarati: "ઉંચો", 
+    typeofWord: "adjective",
+    meaning: "Of imposing height; noble or ambitious but difficult to achieve.",
+    wordExample: {
+      english: "His lofty aspirations of becoming an astronaut required years of rigorous training.",
+      gujarati: "ખગોળયાત્રી બનવાની તેમની ઉંચી આકાંક્ષાઓ માટે વર્ષોના કડક તાલીમની જરૂર હતી.", 
+    },
+    synonyms: [
+      { word: "Grand", gujarati: "ભવ્ય" },
+      { word: "Elevated", gujarati: "ઉંચો" },
+      { word: "Ambitious", gujarati: "મહત્વાકાંક્ષી" },
+    ],
+    antonyms: [
+      { word: "Humble", gujarati: "વિનમ્ર" },
+      { word: "Lowly", gujarati: "નીચો" },
+      { word: "Modest", gujarati: "વિનમ્ર" },
+    ],
+  },
+  {
+    word: "Envisage",
+    gujarati: "કલ્પના કરવી", 
+    typeofWord: "verb",
+    meaning: "To imagine or predict a future possibility.",
+    wordExample: {
+      english: "The government envisages India becoming a global leader in aerospace technology within the next decade.",
+      gujarati: "સરકાર આગામી દાયકામાં ભારતને એરોસ્પેસ ટેકનોલોજીમાં વિશ્વ નેતા બનવાની કલ્પના કરે છે.", 
+    },
+    synonyms: [
+      { word: "Foresee", gujarati: "અગમ્ય" },
+      { word: "Anticipate", gujarati: "અપેક્ષા રાખવી" },
+      { word: "Conceptualize", gujarati: "સંકલ્પના કરવી" },
+    ],
+    antonyms: [
+      { word: "Ignore", gujarati: "અવગણવું" },
+      { word: "Disregard", gujarati: "અવગણવું" },
+      { word: "Dismiss", gujarati: "ખાળી મૂકવું" },
+    ],
+  },
+  {
+    word: "Murky",
+    gujarati: "અસ્પષ્ટ", 
+    typeofWord: "adjective",
+    meaning: "Not clear; obscure or suspiciously unclear.",
+    wordExample: {
+      english: "The administration’s murky stance on defining forests has raised concerns among environmentalists.",
+      gujarati: "વન વ્યાખ્યાયિત કરવા અંગે વહીવટીતંત્રનું અસ્પષ્ટ વલણ પર્યાવરણીયવાદીઓમાં ચિંતા ઉભી કરી છે.", 
+    },
+    synonyms: [
+      { word: "Opaque", gujarati: "અપારદર્શક" },
+      { word: "Obscure", gujarati: "અસ્પષ્ટ" },
+      { word: "Ambiguous", gujarati: "અસ્પષ્ટ" },
+      { word: "Dubious", gujarati: "શંકાસ્પદ" },
+      { word: "Flummoxing", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Knotty", gujarati: "જટિલ" },
+      { word: "Gordian", gujarati: "અત્યંત જટિલ" },
+      { word: "Inconspicuous", gujarati: "અસ્પષ્ટ" },
+      { word: "Implicit", gujarati: "ગર્ભિત / અસ્પષ્ટ" },
+      { word: "Obscure", gujarati: "અસ્પષ્ટ" },
+      { word: "Abstruse", gujarati: "અગમ્ય" },
+      { word: "Murky", gujarati: "અંધારું અને અસ્પષ્ટ" },
+      { word: "Hazy", gujarati: "અસ્પષ્ટ" },
+      { word: "Cloudy", gujarati: "વાદળછાયું / અંધકારમય / ધૂંધળું" },
+      { word: "Blurry", gujarati: "ધૂંધળું" },
+      { word: "Vague", gujarati: "અસ્પષ્ટ" },
+      { word: "Ambiguous", gujarati: "અસ્પષ્ટ" },
+      { word: "Equivocal", gujarati: "અનિશ્ચિત" },
+      { word: "Misty", gujarati: "ધુમ્મસવાળું" },
+      { word: "Torturous", gujarati: "જટિલ" },
+      { word: "Confusing", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Confounding", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Bamboozling", gujarati: "છેતરપિંડી કરવી" },
+      { word: "Bewildering", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Perplexing", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Muddling", gujarati: "મૂંઝવણમાં મૂકે તેવું" },
+      { word: "Intricate", gujarati: "જટિલ" },
+      { word: "Complicated", gujarati: "જટિલ" },
+      { word: "Shrouded", gujarati: "ઢંકાયેલું" },
+      { word: "Labyrinthine", gujarati: "ભુલભુલામણી જેવું" },
+      { word: "Covert", gujarati: "ગુપ્ત / છુપું" },
+      { word: "Recondite", gujarati: "ગૂઢ / ગહન / દૂર્બોધ" },
+      { word: "Nebulous", gujarati: "અસ્પષ્ટ" },
+      { word: "Byzantine", gujarati: "અત્યંત જટિલ" },
+      { word: "Serpentine", gujarati: "ગૂંચવાડાભર્યું" },
+    ],
+    antonyms: [
+      { word: "Clear", gujarati: "સ્પષ્ટ" },
+      { word: "Transparent", gujarati: "પારદર્શક" },
+      { word: "Explicit", gujarati: "સ્પષ્ટ" },
+      { word: "Limpid", gujarati: "સ્ફટિક જેવો સ્પષ્ટ" }, 
+      { word: "Lucid", gujarati: "સ્પષ્ટ" }, 
+      { word: "Pellucid", gujarati: "પારદર્શક" }, 
+    ],
+  },
+  {
+    word: "Exuberant",
+    gujarati: "ઉત્સાહી", 
+    typeofWord: "adjective",
+    meaning: "Full of energy, excitement, and cheerfulness.",
+    wordExample: {
+      english: "The children were exuberant during the school’s annual festival.",
+      gujarati: "શાળાના વાર્ષિક ઉત્સવ દરમિયાન બાળકો ઉત્સાહી હતા.", 
+    },
+    synonyms: [
+      { word: "Lively", gujarati: "જીવંત" },
+      { word: "Enthusiastic", gujarati: "ઉત્સાહી" },
+      { word: "Buoyant", gujarati: "ઉત્સાહી" },
+      { word: "Jubilant", gujarati: "આનંદિત" },
+      { word: "Elated", gujarati: "ઉત્સાહિત" },
+      { word: "Ecstatic", gujarati: "ઉલ્લાસિત" },
+      { word: "Euphoric", gujarati: "આનંદકારક" },
+    ],
+    antonyms: [
+      { word: "Gloomy", gujarati: "ઉદાસ" },
+      { word: "Subdued", gujarati: "દબાયેલો / વશ થયો" },
+      { word: "Lethargic", gujarati: "સુસ્ત" },
+      { word: "Lazy", gujarati: "આળસુ" },
+      { word: "Languid", gujarati: "નિસ્તેજ" },
+      { word: "Sluggish", gujarati: "ધીમું" },
+      { word: "Slow", gujarati: "ધીમું" },
+      { word: "Indolent", gujarati: "આળસુ" },
+      { word: "Couch potato", gujarati: "આળસુ" }, 
+      { word: "Tardy", gujarati: "મોડું" },
+      { word: "Torpid", gujarati: "નિષ્ક્રિય" },
+      { word: "Slothful", gujarati: "આળસુ" },
+      { word: "Enervated", gujarati: "નિર્બળ" },
+      { word: "Fatigued", gujarati: "થાકેલું" },
+      { word: "Exhausted", gujarati: "થાકેલું" },
+    ],
+  },
+  {
+    word: "Trivial",
+    gujarati: "તુચ્છ", 
+    typeofWord: "adjective",
+    meaning: "Of little importance or value.",
+    wordExample: {
+      english: "He dismissed the issue as trivial, but it turned out to be a major problem.",
+      gujarati: "તેમણે તે મુદ્દાને તુચ્છ ગણીને નકારી કાઢ્યો હતો, પરંતુ તે મોટી સમસ્યા બની હતી.", 
+    },
+    synonyms: [
+      { word: "Insignificant", gujarati: "નગણ્ય" },
+      { word: "Minor", gujarati: "સૂક્ષ્મ" },
+      { word: "Negligible", gujarati: "નગણ્ય" },
+      { word: "Fiddling", gujarati: "હલકું / ક્ષુદ્ર નકામું / કિંમત વિનાનું" },
+      { word: "Footling", gujarati: "તુચ્છ" },
+      { word: "Lilliputian", gujarati: "બાળકો જેવું" },
+      { word: "Little", gujarati: "નાનો" },
+      { word: "Petty", gujarati: "તુચ્છ / પરચુરણ" },
+      { word: "Picayune", gujarati: "તુચ્છ" },
+      { word: "Piddling", gujarati: "તુચ્છ" },
+      { word: "Piffling", gujarati: "તુચ્છ" },
+    ],
+    antonyms: [
+      { word: "Significant", gujarati: "મહત્વપૂર્ણ" },
+      { word: "Important", gujarati: "મહત્વપૂર્ણ" },
+      { word: "Critical", gujarati: "નિર્ણાયક" },
     ],
   },
   // ... other verbs

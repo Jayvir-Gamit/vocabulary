@@ -4,9 +4,10 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0 10px;
-  background-image: url('../public/bg6.gif');
+  /* background-image: url('../public/bg5.gif');
   background-size: cover;
-  background-position: center;
+  background-position: center; */
+  background-color: #001022;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -37,6 +38,7 @@ body {
     width: 80%;
     height: 100%;
     text-align: justify;
+    font-size: large;
   }
 }
 
@@ -74,14 +76,17 @@ h1::before {
 }
 
 .card {
-  background-color: #fff;
+  /* background-color: #fff; */
   /* background-color: #110022; */
-  /* color: #fff; */
+  color: #fff;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(255, 255, 255, 0.5);
   overflow-y: auto;
+  background-image: url('../public/bg5.gif');
+  background-size: cover;
+  /* z-index: -1; */
 }
 
 .generate-button {
@@ -110,14 +115,16 @@ h1::before {
   color: rgb(101, 99, 99);
   /* color: rgb(146, 143, 143); */
   transition: color 400ms;
+  background: transparent;
 }
 
 .handlePronunciation:hover {
-  color: rgb(27, 26, 26);
-  /* color: rgb(255, 255, 255); */
+  /* color: rgb(27, 26, 26); */
+  color: rgb(255, 255, 255);
 }
 
 .material-icons {
   background-color: #fff;
   /* background-color: #2f2e2e; */
+  background: transparent;
 }
