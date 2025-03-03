@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vocabulary/static/css/main.ab99929b.css",
-    "main.js": "/vocabulary/static/js/main.a6c038d6.js",
+    "main.css": "/vocabulary/static/css/main.af3685eb.css",
+    "main.js": "/vocabulary/static/js/main.8bb2038e.js",
     "static/js/488.6e48b6c3.chunk.js": "/vocabulary/static/js/488.6e48b6c3.chunk.js",
     "static/media/bg5.gif": "/vocabulary/static/media/bg5.16d5fe5bb9b974c50078.gif",
     "index.html": "/vocabulary/index.html",
-    "main.ab99929b.css.map": "/vocabulary/static/css/main.ab99929b.css.map",
-    "main.a6c038d6.js.map": "/vocabulary/static/js/main.a6c038d6.js.map",
+    "main.af3685eb.css.map": "/vocabulary/static/css/main.af3685eb.css.map",
+    "main.8bb2038e.js.map": "/vocabulary/static/js/main.8bb2038e.js.map",
     "488.6e48b6c3.chunk.js.map": "/vocabulary/static/js/488.6e48b6c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab99929b.css",
-    "static/js/main.a6c038d6.js"
+    "static/css/main.af3685eb.css",
+    "static/js/main.8bb2038e.js"
   ]
 }
