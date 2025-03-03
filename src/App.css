@@ -4,12 +4,9 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0 10px;
-  /* background-image: url('../public/bg5.gif');
-  background-size: cover;
-  background-position: center; */
-  /* background-color: #001022; */
   background-color: currentColor;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 
 .container {
@@ -48,7 +45,6 @@ body {
   }
   .heading-animation {
     height: 7rem; /* Fixed height to prevent container resizing */
-    color: #000000;
   }
 }
 
@@ -64,12 +60,8 @@ body {
     text-align: left;
     background-position: right;
   }
-  body {
-    background-color: #000000;
-  }
   .heading-animation {
     height: 12rem; /* Fixed height to prevent container resizing */
-    color: #000000;
   }
 }
 
@@ -86,6 +78,7 @@ h1 {
   position: relative;
   letter-spacing: 0.1rem;
   animation: reveal 2s ease-in-out forwards;
+  color: #000000;
 }
 
 @keyframes reveal {
@@ -117,15 +110,19 @@ h1::before {
   overflow-y: auto;
   background-image: url("../public/bg5.gif");
   background-size: cover;
+  font-weight: bold;
 }
 
 .card p {
-  line-height: 1.6; /* Improved readability */
+  line-height: 1.6;
+}
+
+.card p strong {
+  color: #ffe100;
 }
 
 .card p span {
-  text-shadow: 0 0 1.5px rgba(242, 255, 0, 0.9);
-  color: #ffe100;
+  color: #fff;
 }
 
 .generate-button {
