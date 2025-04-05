@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vocabulary/static/css/main.b93ef8d5.css",
-    "main.js": "/vocabulary/static/js/main.239f8435.js",
+    "main.css": "/vocabulary/static/css/main.70900f51.css",
+    "main.js": "/vocabulary/static/js/main.0a17d00d.js",
     "static/js/488.6e48b6c3.chunk.js": "/vocabulary/static/js/488.6e48b6c3.chunk.js",
     "static/media/bg5.gif": "/vocabulary/static/media/bg5.16d5fe5bb9b974c50078.gif",
     "index.html": "/vocabulary/index.html",
-    "main.b93ef8d5.css.map": "/vocabulary/static/css/main.b93ef8d5.css.map",
-    "main.239f8435.js.map": "/vocabulary/static/js/main.239f8435.js.map",
+    "main.70900f51.css.map": "/vocabulary/static/css/main.70900f51.css.map",
+    "main.0a17d00d.js.map": "/vocabulary/static/js/main.0a17d00d.js.map",
     "488.6e48b6c3.chunk.js.map": "/vocabulary/static/js/488.6e48b6c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b93ef8d5.css",
-    "static/js/main.239f8435.js"
+    "static/css/main.70900f51.css",
+    "static/js/main.0a17d00d.js"
   ]
 }
